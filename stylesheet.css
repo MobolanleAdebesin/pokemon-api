@@ -1,0 +1,43 @@
+
+body{
+    background-color: #FBD87F;
+    color: #7D4A2C;
+    font-family: Montserrat', sans-serif;
+    
+}
+header{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+
+}
+/* footer{
+    background-image: url("pokemon background.jpg");
+    height: 4rem;
+} */
+
+a{
+    text-align: center;
+    display: block;
+    border: 2px #F48442 solid;
+    color: #7D4A2C;
+    border-radius: 5%;
+    margin: 10px auto;
+    width: 7.5rem;
+    padding: 0.5em;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+a:hover{
+    background-color: #F48442;
+    color: white;
+}
+.ignore{
+    display: none;
+}
+.hidden{
+    display:none;
+}
