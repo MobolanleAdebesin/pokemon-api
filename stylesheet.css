@@ -20,8 +20,9 @@ header{
 a{
     text-align: center;
     display: block;
+    background-color: #ff0000;
     border: 2px #F48442 solid;
-    color: #7D4A2C;
+    color: #443737;
     border-radius: 5%;
     margin: 10px auto;
     width: 7.5rem;
@@ -35,10 +36,12 @@ a:hover{
     background-color: #F48442;
     color: white;
 }
-#a-type{
+#a-type, #a-weight, #a-abilities{
 position: relative;
 bottom: -10em;
 }
+
+
 
 
 .hidden{
