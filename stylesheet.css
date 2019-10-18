@@ -35,9 +35,29 @@ a:hover{
     background-color: #F48442;
     color: white;
 }
+#a-type{
+position: relative;
+bottom: -10em;
+}
+
+
+.hidden{
+    display:none;
+}
+.modal{
+    border-radius: 5%;
+    background-color: #fff1e9;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    position: fixed; 
+    top: 30%;
+}
 .ignore{
     display: none;
 }
-.hidden{
-    display:none;
+h1{
+    font-family: 'Montserrat', sans-serif;
 }
